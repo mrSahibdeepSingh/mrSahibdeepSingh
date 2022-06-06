@@ -2,7 +2,7 @@ Hi👋 My name is  Sahibdeep Singh
 
 - 👀 I’m a full-stack developer
 - 🌍  I'm from India
-- ⚡ Currently learning Python & flutter
+- ⚡ Currently learning flutter :)
 - 📫 How to reach me? Well, you can contact me on my mailId mr.sahibsingh@outlook.com
 
   Thanking You!!!
